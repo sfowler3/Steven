@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591817343776.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D90DCB5",
+    "lastKnownWriteTime" : 1558110984,
+    "last_content_update" : 1558110984,
+    "path" : "C:/Users/zyprx/Desktop/R work/Steven/figures/ReportOJJDP_Referrals.R",
+    "project_path" : "figures/ReportOJJDP_Referrals.R",
+    "properties" : {
+        "cursorPosition" : "84,29",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

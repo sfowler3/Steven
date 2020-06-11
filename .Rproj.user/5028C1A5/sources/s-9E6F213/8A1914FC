@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591374368090.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8A1914FC",
+    "lastKnownWriteTime" : 2178259176568,
+    "last_content_update" : 1591374368090,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3DE65023",
+        "caption" : "bar3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=bar3&cache_key=3DE65023",
+        "displayedObservations" : 139,
+        "environment" : "",
+        "expression" : "bar3",
+        "object" : "bar3",
+        "preview" : 0,
+        "totalObservations" : 139,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

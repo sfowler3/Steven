@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591368913684.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "342677263",
+    "id" : "59AC6586",
+    "lastKnownWriteTime" : 1590777942,
+    "last_content_update" : 1590777942,
+    "path" : "S:/CCAN/CCANEduc/OJJDP db/OJJDP Databases/SBP Analysis Files/R/Steven/ReadAccessOJJDP.R",
+    "project_path" : "ReadAccessOJJDP.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

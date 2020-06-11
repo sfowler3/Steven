@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591822278417.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "456A3370",
+    "lastKnownWriteTime" : 1580360736,
+    "last_content_update" : 1580360736,
+    "path" : "C:/Users/zyprx/Desktop/R work/Steven/figures/ReportOJJDP_Demographics.R",
+    "project_path" : "figures/ReportOJJDP_Demographics.R",
+    "properties" : {
+        "cursorPosition" : "114,34",
+        "scrollLine" : "0",
+        "source_window_id" : ""
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

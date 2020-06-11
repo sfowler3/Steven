@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591368896036.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2583426002",
+    "id" : "6225EDFF",
+    "lastKnownWriteTime" : 1591368901,
+    "last_content_update" : 1591368901230,
+    "path" : "S:/CCAN/CCANEduc/OJJDP db/OJJDP Databases/SBP Analysis Files/R/Steven/ForeignKeysOJJDP.R",
+    "project_path" : "ForeignKeysOJJDP.R",
+    "properties" : {
+        "cursorPosition" : "16,23",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

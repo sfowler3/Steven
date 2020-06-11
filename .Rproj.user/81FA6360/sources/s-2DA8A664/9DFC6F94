@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591805739505.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9DFC6F94",
+    "lastKnownWriteTime" : 1591898776,
+    "last_content_update" : 1591898776132,
+    "path" : "C:/Users/zyprx/Desktop/R work/Steven/manipulation.R",
+    "project_path" : "manipulation.R",
+    "properties" : {
+        "cursorPosition" : "58,4",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

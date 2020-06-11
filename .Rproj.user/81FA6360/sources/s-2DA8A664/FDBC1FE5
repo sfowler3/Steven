@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591824694105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FDBC1FE5",
+    "lastKnownWriteTime" : 1580364340,
+    "last_content_update" : 1580364340,
+    "path" : "C:/Users/zyprx/Desktop/R work/Steven/figures/ReportOJJDP_YSBP.R",
+    "project_path" : "figures/ReportOJJDP_YSBP.R",
+    "properties" : {
+        "cursorPosition" : "289,28",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
